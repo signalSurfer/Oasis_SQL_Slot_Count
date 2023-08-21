@@ -1,0 +1,5 @@
+{
+    "username": "yourdomain\\username",
+    "password": "serviceAccountPassword",
+	"workdir": "working\\directory\\without\\trailing\\slashes"
+}
